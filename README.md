@@ -3,6 +3,8 @@ jQuery.EqualHeightCols
 
 This plugin gets the list of columns with different height, takes the smallest column and than assign that height to other columns by removing some text for each column and you have option to add three dots at the end.
 
+**Blog post:** http://aamirafridi.com/jquery/jquery-equal-columns-height-plugin
+
 Before the plugin applied:
 -------------------------
 
@@ -13,8 +15,6 @@ After plugin is applied:
 
 ![ScreenShot](http://aamirafridi.com/wp-content/uploads/2010/11/after.png)
 
-
-**Blog post:** http://aamirafridi.com/jquery/jquery-equal-columns-height-plugin
 
 Options:
 --------
