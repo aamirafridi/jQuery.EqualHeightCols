@@ -1,0 +1,23 @@
+{
+  "name": "equalheightcols",
+  "title": "Query equal height columns",
+  "description": "This plugin gets the list of columns with different height, takes the smallest column and than assign that height to other columns by removing some text for each column and you have option to add three dots at the end.",
+  "keywords": ["column", "columns", "threedots", "equal", "effect", "ui"],
+  "version": "0.1.1",
+  "author": {
+    "name": "Aamir Afridi",
+    "email" : "aamirafridi@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.6.4"
+  },
+  "homepage": "http://aamirafridi.com/jquery/jquery-equal-columns-height-plugin",
+  "demo": "http://aamirafridi.com/jquery/equalheight/example.html",
+  "download": ""
+}
