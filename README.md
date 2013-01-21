@@ -32,23 +32,23 @@ Use:
 
 ```html
 <ul class="equalHeightExample" id="panels">
-  <li><strong>Heading 1: </strong>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua , vel illum qui dolorem eum...
-	</p>
-	
+	<li>
+		<strong>Heading 1: </strong>
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua , vel illum qui dolorem eum...
+		</p>
 	</li>
-	<li><strong>Heading 2: </strong>
-	<p>
-		Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab...
-	</p>
-	
+	<li>
+		<strong>Heading 2: </strong>
+		<p>
+			Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab...
+		</p>
 	</li>
-	<li><strong>Heading 2: </strong>
-	<p>
-		 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-	</p>
-	
+	<li>
+		<strong>Heading 2: </strong>
+		<p>
+			Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+		</p>
 	</li>
 </ul>
 ```
@@ -73,6 +73,6 @@ Use:
 ###Apply plugin:
 ```javascript
 $(function() {
-  $('#panels').equalheightcols();
+	$('#panels').equalheightcols();
 });
 ```
