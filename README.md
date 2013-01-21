@@ -56,7 +56,7 @@ Use:
 ###CSS:
 ```css
 .equalHeightExample {
-  margin:0 !important;
+	margin:0 !important;
 	padding:5px !important;
 	width:600px;
 }
